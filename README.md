@@ -30,7 +30,7 @@
   
   <h2>⚡️ Where to find me</h2>
   <p>
-    <a target="_blank" href="[www.linkedin.com/in/onur-akgülay-48055625b](http://www.linkedin.com/in/onur-akg%C3%BClay-48055625b)" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" />
+    <a target="_blank" href="http://www.linkedin.com/in/onur-akg%C3%BClay-48055625b" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" />
     </a>
   </p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Konvestas&show_icons=true&locale=en&layout=compact" alt="Konvestas" /> </p>
