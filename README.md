@@ -25,7 +25,7 @@
 <a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" />
 </a>
 </p>
-<h2>✒️ Recent Posts</h2>
+
 <ul>
   <li>
     <a target="_blank" href=""></a>
