@@ -1,6 +1,6 @@
 # Hi there, I'm Onur Akgülay! 👋
 
-### 👨‍💻 Full Stack Developer | AI & Automation Enthusiast
+### 👨‍💻 Full Stack Developer 
 I am a **Software Development** student at **Yeditepe University** (Expected 2026) based in **Istanbul**. I specialize in building high-performance web and mobile applications using **Next.js**, **React Native**, and **Spring Boot**.
 
 Currently, I am expanding my skillset into **AI Agents & Automation** (using n8n and LLM APIs) and deepening my backend expertise with **Kotlin & Spring**.
